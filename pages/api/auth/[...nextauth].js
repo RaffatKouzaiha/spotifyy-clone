@@ -57,6 +57,7 @@ export const authOptions = {
     }),
     // ...add more providers here
   ],
+  secret: "jjjjkdajfkajkfdaljlk",
   pages: {
     signIn: "/auth/signin",
   },
